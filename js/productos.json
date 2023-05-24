@@ -1,0 +1,298 @@
+[
+    {
+        "id":"planta-01",
+        "titulo":"Ficus Gomero",
+        "imagen":"./assets/gomero.png",
+        "categoria": {
+            "nombre":"Plantas",
+            "id":"plantas"
+        },
+        "precio": "4500"
+    },
+    
+    {
+        "id":"planta-02",
+        "titulo":"Ficus Pandurata",
+        "imagen":"./assets/pandurata.png",
+        "categoria": {
+            "nombre":"Plantas",
+            "id":"plantas"
+        },
+        "precio": "3000"
+    },
+    
+    {
+        "id":"planta-03",
+        "titulo":"Zamioculca",
+        "imagen":"./assets/zamiculca.png",
+        "categoria": {
+            "nombre":"Plantas",
+            "id":"plantas"
+        },
+        "precio": "6000"
+    },
+
+    {
+        "id":"planta-04",
+        "titulo":"Potos Multicolor",
+        "imagen":"./assets/potus.png",
+        "categoria": {
+            "nombre":"Plantas",
+            "id":"plantas"
+        },
+        "precio": "5500"
+    },
+    
+        {
+            "id":"planta-05",
+            "titulo":"Laso De Amor",
+            "imagen":"./assets/planta.png",
+            "categoria": {
+                "nombre":"Plantas",
+                "id":"plantas"
+            },
+            "precio": "4000"
+        },
+        
+        {
+            "id":"planta-06",
+            "titulo":"Rosa",
+            "imagen":"./assets/rosa.png",
+            "categoria": {
+                "nombre":"Plantas",
+                "id":"plantas"
+            },
+            "precio": "4000"
+        },
+        
+        {
+            "id":"planta-07",
+            "titulo":"Sanseviera",
+            "imagen":"./assets/sanseviera.png",
+            "categoria": {
+                "nombre":"Plantas",
+                "id":"plantas"
+            },
+            "precio": "5000"
+        },
+        
+    {
+        "id":"planta-08",
+        "titulo":"Suculenta Mix",
+        "imagen":"./assets/suculenta.png",
+        "categoria": {
+            "nombre":"Plantas",
+            "id":"plantas"
+        },
+        "precio": "5000"
+    },
+    
+    {
+        "id":"planta-09",
+        "titulo":"Suculenta Aloe",
+        "imagen":"./assets/suculenta2.png",
+        "categoria": {
+            "nombre":"Plantas",
+            "id":"plantas"
+        },
+        "precio": "3000"
+    },
+    
+    {
+        "id":"planta-10",
+        "titulo":"Suculenta Flor",
+        "imagen":"./assets/suculenta3.png",
+        "categoria": {
+            "nombre":"Plantas",
+            "id":"plantas"
+        },
+        "precio": "10000"
+    },
+
+    {
+        "id":"planta-11",
+        "titulo":"Trepadora Love",
+        "imagen":"./assets/trepadora.png",
+        "categoria": {
+            "nombre":"Plantas",
+            "id":"plantas"
+        },
+        "precio": "8000"
+    },
+        
+        {
+            "id":"herramientas-01",
+            "titulo":"Regadera Charlotte",
+            "imagen":"./assets/regadera1.png",
+            "categoria": {
+                "nombre":"Herramientas",
+                "id":"herramientas"
+            },
+            "precio": "8000"
+        },
+        
+        {
+            "id":"herramientas-02",
+            "titulo":"Regadera Vintage",
+            "imagen":"./assets/regadera2.png",
+            "categoria": {
+                "nombre":"Herramientas",
+                "id":"herramientas"
+            },
+            "precio": "3500"
+        },
+
+        {
+            "id":"herramientas-03",
+            "titulo":"Tijera Green",
+            "imagen":"./assets/tijera1.png",
+            "categoria": {
+                "nombre":"Herramientas",
+                "id":"herramientas"
+            },
+            "precio": "5800"
+        },
+
+        {
+            "id":"herramientas-04",
+            "titulo":"Tijera Yellow",
+            "imagen":"./assets/tijera2.png",
+            "categoria": {
+                "nombre":"Herramientas",
+                "id":"herramientas"
+            },
+            "precio": "3500"
+        },
+        
+        {
+            "id":"herramientas-05",
+            "titulo":"Sustrato Premium 5Kg",
+            "imagen":"./assets/sustrato.png",
+            "categoria": {
+                "nombre":"Herramientas",
+                "id":"herramientas"
+            },
+            "precio": "2000"
+        },
+
+        {
+            "id":"maceta-01",
+            "titulo":"Maceta Lola",
+            "imagen":"./assets/maceta1.png",
+            "categoria": {
+                "nombre":"Macetas",
+                "id":"macetas"
+            },
+            "precio": "2500"
+        },
+        
+    {
+        "id":"maceta-02",
+        "titulo":"Maceta Plata",
+        "imagen":"./assets/maceta2.png",
+        "categoria": {
+            "nombre":"Macetas",
+            "id":"macetas"
+        },
+        "precio": "2500"
+    },
+    
+    {
+        "id":"maceta-03",
+        "titulo":"Maceta Flower",
+        "imagen":"./assets/maceta6.png",
+        "categoria": {
+            "nombre":"Macetas",
+            "id":"macetas"
+        },
+        "precio": "4500"
+    },
+    
+    {
+        "id":"maceta-04",
+        "titulo":"Maceta Sofia",
+        "imagen":"./assets/maceta4.png",
+        "categoria": {
+            "nombre":"Macetas",
+            "id":"macetas"
+        },
+        "precio": "5500"
+    },
+    
+    {
+        "id":"maceta-05",
+        "titulo":"Maceta Wonder",
+        "imagen":"./assets/maceta5.png",
+        "categoria": {
+            "nombre":"Macetas",
+            "id":"macetas"
+        },
+        "precio": "6500"
+    },
+    
+    {
+        "id":"maceta-06",
+        "titulo":"Maceta Rose",
+        "imagen":"./assets/maceta7.png",
+        "categoria": {
+            "nombre":"Macetas",
+            "id":"macetas"
+        },
+        "precio": "6500"
+    },
+    
+    {
+        "id":"arreglo-01",
+        "titulo":"Arreglo Pink",
+        "imagen":"./assets/ramo1.png",
+        "categoria": {
+            "nombre":"Plantas",
+            "id":"plantas"
+        },
+        "precio": "6500"
+    },
+    
+    {
+        "id":"arreglo-02",
+        "titulo":"Arreglo Purple",
+        "imagen":"./assets/ramo2.png",
+        "categoria": {
+            "nombre":"Plantas",
+            "id":"plantas"
+        },
+        "precio": "6500"
+    },
+    
+    {
+        "id":"arreglo-03",
+        "titulo":"Arreglo Fantasy",
+        "imagen":"./assets/ramo3.png",
+        "categoria": {
+            "nombre":"Plantas",
+            "id":"plantas"
+        },
+        "precio": "7500"
+    },
+
+    {
+        "id":"maceta-08",
+        "titulo":"Maceta Tribu",
+        "imagen":"./assets/maceta8.png",
+        "categoria": {
+            "nombre":"Macetas",
+            "id":"macetas"
+        },
+        "precio": "10500"
+    },
+
+    {
+        "id":"maceta-07",
+        "titulo":"Maceta Basic",
+        "imagen":"./assets/maceta3.png",
+        "categoria": {
+            "nombre":"Macetas",
+            "id":"macetas"
+        },
+        "precio": "3500"
+    }
+]
